@@ -1,0 +1,14 @@
+layout_spectrum: 0.4193548
+typography_spectrum: 0.3924731
+color:
+  saturation: 0.9507426
+  lightness: 0.172043
+  brandStrength: 0.827957
+  rhythmicContrast: 0.2698959
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Buchans Miners
